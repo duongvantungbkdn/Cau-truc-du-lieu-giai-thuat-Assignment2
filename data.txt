@@ -1,0 +1,11 @@
+P009   | product 9                    | 7      | 250.0       
+A001   | product 1                    | 15     | 300.0       
+E003   | product 3                    | 6      | 600.0       
+P001   | product p1                   | 6      | 400.0       
+E004   | product 4                    | 8      | 200.0       
+E005   | product 5                    | 6      | 150.0       
+P002   | Product 10                   | 5      | 500.0       
+A007   | product 7                    | 5      | 400.0       
+P006   | product 6                    | 5      | 100.0       
+A008   | product 8                    | 18     | 260.0       
+2      | 2                            | 2      | 2.0         

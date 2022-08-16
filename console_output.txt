@@ -1,0 +1,332 @@
+
+Choose one of this options.
+Product list: 
+1. Load data from file and display.
+2. Input & add to the end.
+3. Display data.
+4. Save product list to file.
+5. Search by ID.
+6. Delete by ID.
+7. Sort by ID.
+8. Convert to Binary.
+9. Load to stack and display.
+10. Load to queue and display.
+11. Input & add to the front.
+0. Exit.
+
+Your choice: 1
+Read products list from data.txt successfully.
+ID    |  Title                       | Quantity  | price        
+--------------------------------------------------------
+P009   | product 9                    | 7      | 250.0       
+A001   | product 1                    | 15     | 300.0       
+E003   | product 3                    | 6      | 600.0       
+P001   | product p1                   | 6      | 400.0       
+E004   | product 4                    | 8      | 200.0       
+E005   | product 5                    | 6      | 150.0       
+P002   | Product 10                   | 5      | 500.0       
+A007   | product 7                    | 5      | 400.0       
+P006   | product 6                    | 5      | 100.0       
+A008   | product 8                    | 18     | 260.0       
+
+Choose one of this options.
+Product list: 
+1. Load data from file and display.
+2. Input & add to the end.
+3. Display data.
+4. Save product list to file.
+5. Search by ID.
+6. Delete by ID.
+7. Sort by ID.
+8. Convert to Binary.
+9. Load to stack and display.
+10. Load to queue and display.
+11. Input & add to the front.
+0. Exit.
+
+Your choice: 2
+Input new ID: 2
+Input Product's Name: 2
+Input Product's quantity: 2
+Input Product's price: 2.0
+
+Choose one of this options.
+Product list: 
+1. Load data from file and display.
+2. Input & add to the end.
+3. Display data.
+4. Save product list to file.
+5. Search by ID.
+6. Delete by ID.
+7. Sort by ID.
+8. Convert to Binary.
+9. Load to stack and display.
+10. Load to queue and display.
+11. Input & add to the front.
+0. Exit.
+
+Your choice: 3
+ID    |  Title                       | Quantity  | price        
+--------------------------------------------------------
+P009   | product 9                    | 7      | 250.0       
+A001   | product 1                    | 15     | 300.0       
+E003   | product 3                    | 6      | 600.0       
+P001   | product p1                   | 6      | 400.0       
+E004   | product 4                    | 8      | 200.0       
+E005   | product 5                    | 6      | 150.0       
+P002   | Product 10                   | 5      | 500.0       
+A007   | product 7                    | 5      | 400.0       
+P006   | product 6                    | 5      | 100.0       
+A008   | product 8                    | 18     | 260.0       
+2      | 2                            | 2      | 2.0         
+
+Choose one of this options.
+Product list: 
+1. Load data from file and display.
+2. Input & add to the end.
+3. Display data.
+4. Save product list to file.
+5. Search by ID.
+6. Delete by ID.
+7. Sort by ID.
+8. Convert to Binary.
+9. Load to stack and display.
+10. Load to queue and display.
+11. Input & add to the front.
+0. Exit.
+
+Your choice: 4
+Write to file successfully!
+
+Choose one of this options.
+Product list: 
+1. Load data from file and display.
+2. Input & add to the end.
+3. Display data.
+4. Save product list to file.
+5. Search by ID.
+6. Delete by ID.
+7. Sort by ID.
+8. Convert to Binary.
+9. Load to stack and display.
+10. Load to queue and display.
+11. Input & add to the front.
+0. Exit.
+
+Your choice: 5
+Input the ID to search: 0026
+Result: -1
+
+Choose one of this options.
+Product list: 
+1. Load data from file and display.
+2. Input & add to the end.
+3. Display data.
+4. Save product list to file.
+5. Search by ID.
+6. Delete by ID.
+7. Sort by ID.
+8. Convert to Binary.
+9. Load to stack and display.
+10. Load to queue and display.
+11. Input & add to the front.
+0. Exit.
+
+Your choice: 5
+Input the ID to search: 002
+Result: 
+ID    |  Title                       | Quantity  | price        
+--------------------------------------------------------
+P002   | Product 10                   | 5      | 500.0       
+
+Choose one of this options.
+Product list: 
+1. Load data from file and display.
+2. Input & add to the end.
+3. Display data.
+4. Save product list to file.
+5. Search by ID.
+6. Delete by ID.
+7. Sort by ID.
+8. Convert to Binary.
+9. Load to stack and display.
+10. Load to queue and display.
+11. Input & add to the front.
+0. Exit.
+
+Your choice: 6
+Input the ID to delete: 2
+Are you sure delete product ID '2', name '2'
+1. Yes
+2. No
+Choice: 1
+Delete successfully!
+
+Choose one of this options.
+Product list: 
+1. Load data from file and display.
+2. Input & add to the end.
+3. Display data.
+4. Save product list to file.
+5. Search by ID.
+6. Delete by ID.
+7. Sort by ID.
+8. Convert to Binary.
+9. Load to stack and display.
+10. Load to queue and display.
+11. Input & add to the front.
+0. Exit.
+
+Your choice: 7
+Sort list successfully.
+
+Choose one of this options.
+Product list: 
+1. Load data from file and display.
+2. Input & add to the end.
+3. Display data.
+4. Save product list to file.
+5. Search by ID.
+6. Delete by ID.
+7. Sort by ID.
+8. Convert to Binary.
+9. Load to stack and display.
+10. Load to queue and display.
+11. Input & add to the front.
+0. Exit.
+
+Your choice: 3
+ID    |  Title                       | Quantity  | price        
+--------------------------------------------------------
+A001   | product 1                    | 15     | 300.0       
+A007   | product 7                    | 5      | 400.0       
+A008   | product 8                    | 18     | 260.0       
+E003   | product 3                    | 6      | 600.0       
+E004   | product 4                    | 8      | 200.0       
+E005   | product 5                    | 6      | 150.0       
+P001   | product p1                   | 6      | 400.0       
+P002   | Product 10                   | 5      | 500.0       
+P006   | product 6                    | 5      | 100.0       
+P009   | product 9                    | 7      | 250.0       
+
+Choose one of this options.
+Product list: 
+1. Load data from file and display.
+2. Input & add to the end.
+3. Display data.
+4. Save product list to file.
+5. Search by ID.
+6. Delete by ID.
+7. Sort by ID.
+8. Convert to Binary.
+9. Load to stack and display.
+10. Load to queue and display.
+11. Input & add to the front.
+0. Exit.
+
+Your choice: 8
+Quantity of first product = 15 => binary = 1111
+
+Choose one of this options.
+Product list: 
+1. Load data from file and display.
+2. Input & add to the end.
+3. Display data.
+4. Save product list to file.
+5. Search by ID.
+6. Delete by ID.
+7. Sort by ID.
+8. Convert to Binary.
+9. Load to stack and display.
+10. Load to queue and display.
+11. Input & add to the front.
+0. Exit.
+
+Your choice: 9
+Read products list from data.txt successfully.
+ID    |  Title                       | Quantity  | price        
+--------------------------------------------------------
+2      | 2                            | 2      | 2.0         
+A008   | product 8                    | 18     | 260.0       
+P006   | product 6                    | 5      | 100.0       
+A007   | product 7                    | 5      | 400.0       
+P002   | Product 10                   | 5      | 500.0       
+E005   | product 5                    | 6      | 150.0       
+E004   | product 4                    | 8      | 200.0       
+P001   | product p1                   | 6      | 400.0       
+E003   | product 3                    | 6      | 600.0       
+A001   | product 1                    | 15     | 300.0       
+P009   | product 9                    | 7      | 250.0       
+
+
+Choose one of this options.
+Product list: 
+1. Load data from file and display.
+2. Input & add to the end.
+3. Display data.
+4. Save product list to file.
+5. Search by ID.
+6. Delete by ID.
+7. Sort by ID.
+8. Convert to Binary.
+9. Load to stack and display.
+10. Load to queue and display.
+11. Input & add to the front.
+0. Exit.
+
+Your choice: 10
+Read products list from data.txt successfully.
+ID    |  Title                       | Quantity  | price        
+--------------------------------------------------------
+P009   | product 9                    | 7      | 250.0       
+A001   | product 1                    | 15     | 300.0       
+E003   | product 3                    | 6      | 600.0       
+P001   | product p1                   | 6      | 400.0       
+E004   | product 4                    | 8      | 200.0       
+E005   | product 5                    | 6      | 150.0       
+P002   | Product 10                   | 5      | 500.0       
+A007   | product 7                    | 5      | 400.0       
+P006   | product 6                    | 5      | 100.0       
+A008   | product 8                    | 18     | 260.0       
+2      | 2                            | 2      | 2.0         
+
+
+Choose one of this options.
+Product list: 
+1. Load data from file and display.
+2. Input & add to the end.
+3. Display data.
+4. Save product list to file.
+5. Search by ID.
+6. Delete by ID.
+7. Sort by ID.
+8. Convert to Binary.
+9. Load to stack and display.
+10. Load to queue and display.
+11. Input & add to the front.
+0. Exit.
+
+Your choice: 11
+Input new ID: 3
+Input Product's Name: 3
+Input Product's quantity: 3
+Input Product's price: 3.0
+
+Choose one of this options.
+Product list: 
+1. Load data from file and display.
+2. Input & add to the end.
+3. Display data.
+4. Save product list to file.
+5. Search by ID.
+6. Delete by ID.
+7. Sort by ID.
+8. Convert to Binary.
+9. Load to stack and display.
+10. Load to queue and display.
+11. Input & add to the front.
+0. Exit.
+
+Your choice: 0
+
+Goodbye, have a nice day!!!
